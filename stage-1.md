@@ -2,14 +2,14 @@
 
 In this stage we're going to see how quickly we can add CSS Modules to a project and start using it. By the end you'll have everything set up to start experimenting on your own.
 
-[Watch the video](#)
+[Watch the video](https://youtu.be/4xlXugtaCx8)
 
 ## To follow along at home
 
 This course has been designed so that you can watch the video and try it out yourself. Here's what you need to do to follow along at home:
 
 - clone the repo: `git clone ...`
-- switch to the stage 1 branch: `git checkout stage1`
+- switch to the stage 1 branch: `git checkout stage-1`
 - install dependencies: `npm install`
 
 You can also see a [diff of all changes introduced in this stage](#)
