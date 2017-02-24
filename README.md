@@ -8,7 +8,7 @@ Each stage of the course has its own branch. Head on over to [stage 1](./stage-1
 
 ## Stages
 
-- [Stage 1: Let's add CSS Modules in 5 minutes](./stage-1.md)
+- [Stage 1: Add CSS Modules in 5 minutes](./stage-1.md)
 - [Stage 2: Exploring the basics](./stage-2.md)
 - [Stage 3: Making reusable modules](./stage-3.md)
 - [Stage 4: Responsive grid layout](./stage-4.md)
