@@ -10,7 +10,6 @@ This course has been designed so that you can watch the video and try it out you
 
 - clone the repo: `git clone ...`
 - switch to the stage 1 branch: `git checkout stage-1`
-- install dependencies: `npm install`
 
 You can also see a [diff of all changes introduced in this stage](#)
 
