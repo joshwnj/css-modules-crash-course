@@ -2,6 +2,8 @@
 
 In this stage we're going to see how quickly we can add CSS Modules to a project and start using it. By the end you'll have everything set up to start experimenting on your own.
 
+[![Stage 1 video](https://img.youtube.com/vi/4xlXugtaCx8/0.jpg)](https://youtu.be/4xlXugtaCx8)
+
 [Watch the video](https://youtu.be/4xlXugtaCx8)
 
 ## To follow along at home

@@ -2,6 +2,8 @@
 
 Welcome to the CSS Modules Crash Course! In this course we're going to see how to add CSS Modules to a project, look into some of the value you get from CSS Modules, and learn some useful techniques for using it effectively.
 
+[![Stage 1 video](https://img.youtube.com/vi/4xlXugtaCx8/0.jpg)](https://youtu.be/4xlXugtaCx8)
+
 ## Get started
 
 Each stage of the course has its own branch. Head on over to [stage 1](./stage-1.md) to get started.
