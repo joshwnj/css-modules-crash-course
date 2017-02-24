@@ -15,4 +15,4 @@ Each stage of the course has its own branch. Head on over to [stage 1](./stage-1
 
 ## Questions?
 
-Please [create an issue](#) and I'll be happy to answer your questions.
+Please [create an issue](https://github.com/joshwnj/css-modules-crash-course/issues/new) and I'll be happy to answer your questions.
